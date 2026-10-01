@@ -1,2 +1,5 @@
-# donghwmount-xindelu-apk2
-Android APK builder
+# 心得录
+
+Android WebView wrapper for: https://donghwmount.github.io/donghwmount-xindelu/
+
+Built automatically via GitHub Actions.
